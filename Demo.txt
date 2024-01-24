@@ -1,2 +1,2 @@
 First day of main boot camp
-This is day 02 of git session 
+This is day 02 of git session 24.01.2024
