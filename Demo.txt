@@ -1,1 +1,2 @@
 First day of main boot camp
+This is day 02 of git session 
