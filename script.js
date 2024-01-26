@@ -19,7 +19,7 @@ for(var i =0;i<res.length;i++){
         console.log(res[i].capital[0]+" "+res[i].area)
     }
     else{
-        console.log("Invalid capital"+res[i].area);
+        console.log("Invalidd capital"+res[i].area);
     }
 }
 }
